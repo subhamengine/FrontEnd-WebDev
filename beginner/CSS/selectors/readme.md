@@ -1,6 +1,7 @@
 <h3>Working on classes</h3>
 <br>
-![image](https://user-images.githubusercontent.com/83713146/141341674-643d35ed-7107-48b9-ad3c-a2856c69a8a4.png)
+![imgSelector-01](https://user-images.githubusercontent.com/83713146/141342868-e4d7bbc9-5ccf-4734-9e32-23afa45f0d9d.jpg)
+
 <br>
 ![image](https://user-images.githubusercontent.com/83713146/141341950-584015ff-016f-48ee-92e0-d199fe7b1e1d.png)
 
