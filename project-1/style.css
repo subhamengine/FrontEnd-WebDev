@@ -2,10 +2,15 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    color: #40514e;
 }
+
 .profile{
     font-family: sans-serif;
     font-size: larger;
+}
+.middle-container{
+    margin: 100px auto auto auto;
 }
 .skill-image1{
     width: 25%;
@@ -22,7 +27,6 @@ body{
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
     float: top;
 }
 h1{
@@ -73,8 +77,11 @@ h3{
     font-size: 19px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
+    
   }
-  
+  .love{
+      margin: auto auto 50px auto;
+  }
   .btn:hover {
     background: #30e3cb;
     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
@@ -91,4 +98,14 @@ h3{
   }
   .last{
       color: white;
+  }
+  .contact-me{
+      margin: auto;
+     
+  }
+  hr{
+      border: dotted #EAf6f6 6px;
+      border-bottom: none;
+      width: 4%;
+      margin: auto 48% auto 47%;
   }
