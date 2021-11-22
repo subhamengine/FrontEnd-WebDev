@@ -1,0 +1,30 @@
+.fcontainer{
+    display: flex;
+    border: 2px solid grey;
+    height: 400px;
+    flex-direction: row;
+    justify-content: center;
+    /*justify-content: flex-end*/
+    /*justify-content: flex-start*/
+    /* align-items: center;  align's verticaly centre */
+    /*align-items: flex-end*/
+    /*align-items: flex-start*/
+    /*more justify and align, try on chrome inspect*/
+    flex-wrap: wrap; /*wrap-reverse*/
+}
+.item1,.item2,.item3,.item4{
+    background-color: blue;
+    border: 2px solid rgb(92, 82, 82);
+    margin: 12px;
+    width: 122px;
+    height: 122px;
+}
+.item1{
+    /*order:3;*/ /*whose order is bigger among the items, will dispaly orderwise*/
+    flex-grow: 3;
+    align-self: center;
+}
+/*flex-shrink*/
+.item2{
+    flex-grow: 2;
+}
